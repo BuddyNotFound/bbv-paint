@@ -1,4 +1,5 @@
-![champ|690x387](upload://h2RSnbMClCtL5cuKj7owknwWsAj.jpeg)
+
+![champ](https://github.com/BuddyNotFound/bbv-paint/assets/74051918/d8b7d093-cccd-428d-97c6-d6b2b05c0f86)
 
 > Script Info
 
