@@ -63,12 +63,24 @@ RegisterCommand('setpaint',function(source,arg)
 end)
 
 RegisterCommand('loop',function()
-    for i=177,242 do
-        Wait(1000)
-        local ped = PlayerPedId()
-        local pedCoords = GetEntityCoords(ped)
-        local vehicle = GetVehiclePedIsIn(ped)
-        SetVehicleModKit(vehicle, 0)
-        SetVehicleColours(vehicle, i, i)
+    if gameBuild == 2699 or gameBuild == 2802 then 
+        for i=177,242 do
+            Wait(1000)
+            local ped = PlayerPedId()
+            local pedCoords = GetEntityCoords(ped)
+            local vehicle = GetVehiclePedIsIn(ped)
+            SetVehicleModKit(vehicle, 0)
+            SetVehicleColours(vehicle, i, i)
+        end
+    end
+    if gameBuild == 2545 then 
+        for i=161,167 do
+            Wait(1000)
+            local ped = PlayerPedId()
+            local pedCoords = GetEntityCoords(ped)
+            local vehicle = GetVehiclePedIsIn(ped)
+            SetVehicleModKit(vehicle, 0)
+            SetVehicleColours(vehicle, i, i)
+        end
     end
 end)
