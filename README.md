@@ -1,3 +1,4 @@
+<a href='https://ko-fi.com/G2G0N78P7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ![champ](https://github.com/BuddyNotFound/bbv-paint/assets/74051918/d8b7d093-cccd-428d-97c6-d6b2b05c0f86)
 
