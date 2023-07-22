@@ -54,4 +54,4 @@ Download from github :
 
 > **Other Work :** 
 
-**[Newest Paid Release](https://forum.cfx.re/t/paid-car-lift-standalone-gabz-mlos-support/5146143/4)**
+**[Newest Paid Release](https://forum.cfx.re/t/paid-car-lift-standalone-gabz-mlos-support/5146143)**
